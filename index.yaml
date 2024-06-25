@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  scoop:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-25T18:15:07.350945333+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 798011dacd42dacc676e90db1c0b43fcf7d7b780fdfb46d6e8fd802db78a4421
+    name: scoop
+    type: application
+    urls:
+    - https://yashasvidevtron.github.io/scoop_templating/scoop-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-25T18:15:07.350164458+05:30"

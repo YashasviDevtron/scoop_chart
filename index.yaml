@@ -1,14 +1,17 @@
 apiVersion: v1
 entries:
-  scoop:
-  - apiVersion: v2
+  dt-scoop:
+  - apiVersion: v1
     appVersion: 1.16.0
-    created: "2024-06-25T18:44:28.924309154+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 18c27334333c39d7f0707def5c1d4436a0e274a42a957389597f1260bd19dccd
-    name: scoop
+    created: "2024-06-26T09:15:48.848150699+05:30"
+    description: Chart to deploy scoop
+    digest: 480060cf57200b3385b25d2da926a1e63489be39a0df89621f4b33a59464cdbc
+    maintainers:
+    - email: devops@devtron.ai
+      name: Devops-Team DEVTRON
+    name: dt-scoop
     type: application
     urls:
-    - https://yashasvidevtron.github.io/scoop_chart/scoop-0.1.0.tgz
+    - https://yashasvidevtron.github.io/scoop_chart/dt-scoop-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-25T18:44:28.921533038+05:30"
+generated: "2024-06-26T09:15:48.846864607+05:30"

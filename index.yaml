@@ -3,15 +3,15 @@ entries:
   dt-scoop:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2024-06-26T13:55:56.706277446+05:30"
+    created: "2024-06-26T14:08:39.278942041+05:30"
     description: Chart to deploy scoop
-    digest: df3f08c9713dcd07f6f471653ee5d64d8c812867e21a46eb326e6244a5edde30
+    digest: e09b971333fcf5b39e39d675e42b864518aded2a632674de5050ddbda5960343
     maintainers:
     - email: devops@devtron.ai
       name: Devops-Team DEVTRON
     name: dt-scoop
     type: application
     urls:
-    - https://yashasvidevtron.github.io/scoop_chart/dt-scoop-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-06-26T13:55:56.70537187+05:30"
+    - https://yashasvidevtron.github.io/scoop_chart/dt-scoop-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-06-26T14:08:39.278206372+05:30"
